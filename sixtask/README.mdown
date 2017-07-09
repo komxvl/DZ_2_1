@@ -1,6 +1,5 @@
 <h2>Название работы</h2>
 домашнее задание 2, задание 6
 <h4>ScreenShot</h4>
-
 ![6hw](https://user-images.githubusercontent.com/29713494/27994976-c6ed85e4-64cf-11e7-854d-57a9f3a4223e.png)
 
