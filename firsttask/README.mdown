@@ -2,5 +2,9 @@
 домашнее задание 2, задание 1
 <h4>ScreenShot</h4>
 
-https://user-images.githubusercontent.com/29713494/27994799-40d006c8-64cd-11e7-935d-b561324ff646.png
+
+![screen_f_w](https://user-images.githubusercontent.com/29713494/27995058-a8a2869c-64d0-11e7-8978-b382a5478531.png)
+
+
+
 
